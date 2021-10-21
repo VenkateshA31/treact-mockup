@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/VenkateshA31/treact-mockup.git/static/css/main.dbdd9312.chunk.css",
-    "main.js": "/VenkateshA31/treact-mockup.git/static/js/main.58cb40e2.chunk.js",
-    "main.js.map": "/VenkateshA31/treact-mockup.git/static/js/main.58cb40e2.chunk.js.map",
+    "main.css": "/VenkateshA31/treact-mockup.git/static/css/main.0b690f23.chunk.css",
+    "main.js": "/VenkateshA31/treact-mockup.git/static/js/main.c8c6325e.chunk.js",
+    "main.js.map": "/VenkateshA31/treact-mockup.git/static/js/main.c8c6325e.chunk.js.map",
     "runtime-main.js": "/VenkateshA31/treact-mockup.git/static/js/runtime-main.7a06f9e8.js",
     "runtime-main.js.map": "/VenkateshA31/treact-mockup.git/static/js/runtime-main.7a06f9e8.js.map",
     "static/css/2.58d3e1ea.chunk.css": "/VenkateshA31/treact-mockup.git/static/css/2.58d3e1ea.chunk.css",
-    "static/js/2.052be157.chunk.js": "/VenkateshA31/treact-mockup.git/static/js/2.052be157.chunk.js",
-    "static/js/2.052be157.chunk.js.map": "/VenkateshA31/treact-mockup.git/static/js/2.052be157.chunk.js.map",
+    "static/js/2.4abee426.chunk.js": "/VenkateshA31/treact-mockup.git/static/js/2.4abee426.chunk.js",
+    "static/js/2.4abee426.chunk.js.map": "/VenkateshA31/treact-mockup.git/static/js/2.4abee426.chunk.js.map",
     "index.html": "/VenkateshA31/treact-mockup.git/index.html",
     "static/css/2.58d3e1ea.chunk.css.map": "/VenkateshA31/treact-mockup.git/static/css/2.58d3e1ea.chunk.css.map",
-    "static/css/main.dbdd9312.chunk.css.map": "/VenkateshA31/treact-mockup.git/static/css/main.dbdd9312.chunk.css.map",
-    "static/js/2.052be157.chunk.js.LICENSE.txt": "/VenkateshA31/treact-mockup.git/static/js/2.052be157.chunk.js.LICENSE.txt",
+    "static/css/main.0b690f23.chunk.css.map": "/VenkateshA31/treact-mockup.git/static/css/main.0b690f23.chunk.css.map",
+    "static/js/2.4abee426.chunk.js.LICENSE.txt": "/VenkateshA31/treact-mockup.git/static/js/2.4abee426.chunk.js.LICENSE.txt",
     "static/media/24-7 support.f9253ffa.svg": "/VenkateshA31/treact-mockup.git/static/media/24-7 support.f9253ffa.svg",
     "static/media/Easy.673b7e17.svg": "/VenkateshA31/treact-mockup.git/static/media/Easy.673b7e17.svg",
     "static/media/adam.ac6b1ffe.jfif": "/VenkateshA31/treact-mockup.git/static/media/adam.ac6b1ffe.jfif",
@@ -37,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.7a06f9e8.js",
     "static/css/2.58d3e1ea.chunk.css",
-    "static/js/2.052be157.chunk.js",
-    "static/css/main.dbdd9312.chunk.css",
-    "static/js/main.58cb40e2.chunk.js"
+    "static/js/2.4abee426.chunk.js",
+    "static/css/main.0b690f23.chunk.css",
+    "static/js/main.c8c6325e.chunk.js"
   ]
 }
